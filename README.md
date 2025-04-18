@@ -26,7 +26,8 @@ This project uses machine learning to predict the risk of heart disease based on
 2. Install dependencies  
    ```bash
    pip install -r requirements.tx
-result:
+**result:**
+
 Model Accuracy: 0.8688524590163934
 
 Classification Report:
