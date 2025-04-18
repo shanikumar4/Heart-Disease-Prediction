@@ -26,3 +26,20 @@ This project uses machine learning to predict the risk of heart disease based on
 2. Install dependencies  
    ```bash
    pip install -r requirements.tx
+result:
+Model Accuracy: 0.8688524590163934
+
+Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.84      0.90      0.87        29
+           1       0.90      0.84      0.87        32
+
+    accuracy                           0.87        61
+   macro avg       0.87      0.87      0.87        61
+weighted avg       0.87      0.87      0.87        61
+
+
+Confusion Matrix:
+ [[26  3]
+ [ 5 27]]
